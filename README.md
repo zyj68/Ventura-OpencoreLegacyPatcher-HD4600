@@ -2,7 +2,7 @@
 
 ## 黑苹果，戴尔7557，Ventura驱动HD4600
 1、下载OpenCore-Patcher-GUI.app  
-   https://github.com/dortania/OpenCore-Legacy-Patcher/releases/download/0.6.1/OpenCore-Patcher-GUI.app.zip  
+   https://github.com/dortania/OpenCore-Legacy-Patcher/releases  
 2、下载AMFIExemption.kext 并添加到config.plist中的Kernel  ##已添加到EFI\OC\Kexts  
 3、打开config.plist → NVRAM → 7C436110-AB2A-4BBB-A880-FE41995C9F82  在boot-args中添加amfi_get_out_of_my_way=1  
    将csr-active-config 置为FF0F0000  
@@ -25,7 +25,7 @@
 
 
 1. Download OpenCore-Patcher-GUI.app  
-   https://github.com/dortania/OpenCore-Legacy-Patcher/releases/download/0.6.1/OpenCore-Patcher-GUI.app.zip  
+   https://github.com/dortania/OpenCore-Legacy-Patcher/releases  
 2. Download AMFIExemption.kext and add it to the Kernel in config.plist ##Already added to EFI\OC\Kexts  
 3. Open config.plist → NVRAM → 7C436110-AB2A-4BBB-A880-FE41995C9F82 Add amfi_get_out_of_my_way=1 to boot-args  
    Set csr-active-config to FF0F0000  
