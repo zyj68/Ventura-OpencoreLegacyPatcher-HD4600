@@ -1,6 +1,6 @@
-## Ventura-OpencoreLegacyPatcher-HD4600
+# Ventura-OpencoreLegacyPatcher-HD4600
 
-## 黑苹果，戴尔7557，Ventura驱动HD4600
+# 黑苹果，戴尔7557，Ventura驱动HD4600
 
 ## 1、下载OpenCore-Patcher-GUI.app
    https://github.com/dortania/OpenCore-Legacy-Patcher/releases/download/0.6.1/OpenCore-Patcher-GUI.app.zip
@@ -18,7 +18,7 @@
 
 
 
-## Hackintosh, Dell 7557, Ventura drive HD4600
+##Hackintosh, Dell 7557, Ventura drive HD4600
 
 
 ## 1. Download OpenCore-Patcher-GUI.app
@@ -33,4 +33,4 @@
     Therefore, the less content the better, just let the Hackintosh can enter the interface and OpenCore-Patcher-GUI.app can recognize the graphics card information
 ## 6. Restart the black apple, enter the recovery mode, click on the utility, open the terminal, enter csrutil disable, confirm and press Enter, it will display Successfully disabled System Integrity Protection.... to restart the computer
 ## 7. After restarting, open OpenCore-Patcher-GUI.app and click post install root patch to find the recognized graphics card, click start root patching to complete the cracking
-# 8. After the cracking is completed, you can customize and modify PciRoot(0x0)/Pci(0x2,0x0)
+## 8. After the cracking is completed, you can customize and modify PciRoot(0x0)/Pci(0x2,0x0)
