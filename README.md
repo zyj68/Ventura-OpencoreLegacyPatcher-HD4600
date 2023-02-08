@@ -16,7 +16,6 @@ Ventura-OpencoreLegacyPatcher-HD4600
 7、重启后打开 OpenCore-Patcher-GUI.app 点击 post install root patch 即可发现识别的显卡，点击start root patching完成破解
 8、破解完成后即可自定义修改PciRoot(0x0)/Pci(0x2,0x0)
 
-
 Hackintosh, Dell 7557, Ventura drive HD4600
 
 1. Download OpenCore-Patcher-GUI.app
